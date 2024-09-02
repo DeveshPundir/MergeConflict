@@ -1,2 +1,6 @@
 this is the first line
-this is second line and again bro
+<<<<<<< HEAD
+i have chosen this line this is second line and again bro
+=======
+this is second line and this is again that line
+>>>>>>> feature
